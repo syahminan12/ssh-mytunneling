@@ -1,4 +1,4 @@
-# Creator by : Mr.Tr3v!0n
+# Creator by : Mr.J
 # Team : Black Coder Crush
 
 import marshal
